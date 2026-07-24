@@ -16,6 +16,11 @@ namespace Basics
             AreaOfCircle.Run();
             VolumeOfCylinder.Run();
             CelsiusToFahrenheit.Run();
+            AverageOfThreeNumbers.Run();
+            BasicCalculator.Run();
+            QuotientAndRemainder.Run();
+            SwapTwoNumbers.Run();
+            SimpleInterest.Run();
         }
     }
 }
