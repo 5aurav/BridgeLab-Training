@@ -1,0 +1,126 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\saura\\source\\repos\\CoreProgramming\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{62BE1A3B-7E8C-4DCD-993C-0DA223F328FB}|Basics\\Basics.csproj|c:\\users\\saura\\source\\repos\\coreprogramming\\basics\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62BE1A3B-7E8C-4DCD-993C-0DA223F328FB}|Basics\\Basics.csproj|solutionrelative:basics\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62BE1A3B-7E8C-4DCD-993C-0DA223F328FB}|Basics\\Basics.csproj|c:\\users\\saura\\source\\repos\\coreprogramming\\basics\\problems\\celsiustofahrenheit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62BE1A3B-7E8C-4DCD-993C-0DA223F328FB}|Basics\\Basics.csproj|solutionrelative:basics\\problems\\celsiustofahrenheit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62BE1A3B-7E8C-4DCD-993C-0DA223F328FB}|Basics\\Basics.csproj|c:\\users\\saura\\source\\repos\\coreprogramming\\basics\\problems\\volumeofcylinder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62BE1A3B-7E8C-4DCD-993C-0DA223F328FB}|Basics\\Basics.csproj|solutionrelative:basics\\problems\\volumeofcylinder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62BE1A3B-7E8C-4DCD-993C-0DA223F328FB}|Basics\\Basics.csproj|c:\\users\\saura\\source\\repos\\coreprogramming\\basics\\problems\\areaofcircle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62BE1A3B-7E8C-4DCD-993C-0DA223F328FB}|Basics\\Basics.csproj|solutionrelative:basics\\problems\\areaofcircle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62BE1A3B-7E8C-4DCD-993C-0DA223F328FB}|Basics\\Basics.csproj|c:\\users\\saura\\source\\repos\\coreprogramming\\basics\\problems\\addtwonumbers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62BE1A3B-7E8C-4DCD-993C-0DA223F328FB}|Basics\\Basics.csproj|solutionrelative:basics\\problems\\addtwonumbers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62BE1A3B-7E8C-4DCD-993C-0DA223F328FB}|Basics\\Basics.csproj|c:\\users\\saura\\source\\repos\\coreprogramming\\basics\\problems\\welcometobridgelabz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62BE1A3B-7E8C-4DCD-993C-0DA223F328FB}|Basics\\Basics.csproj|solutionrelative:basics\\problems\\welcometobridgelabz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CelsiusToFahrenheit.cs",
+              "DocumentMoniker": "C:\\Users\\saura\\source\\repos\\CoreProgramming\\Basics\\Problems\\CelsiusToFahrenheit.cs",
+              "RelativeDocumentMoniker": "Basics\\Problems\\CelsiusToFahrenheit.cs",
+              "ToolTip": "C:\\Users\\saura\\source\\repos\\CoreProgramming\\Basics\\Problems\\CelsiusToFahrenheit.cs",
+              "RelativeToolTip": "Basics\\Problems\\CelsiusToFahrenheit.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-24T17:55:22.653Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "VolumeOfCylinder.cs",
+              "DocumentMoniker": "C:\\Users\\saura\\source\\repos\\CoreProgramming\\Basics\\Problems\\VolumeOfCylinder.cs",
+              "RelativeDocumentMoniker": "Basics\\Problems\\VolumeOfCylinder.cs",
+              "ToolTip": "C:\\Users\\saura\\source\\repos\\CoreProgramming\\Basics\\Problems\\VolumeOfCylinder.cs",
+              "RelativeToolTip": "Basics\\Problems\\VolumeOfCylinder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-24T17:54:09.087Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\saura\\source\\repos\\CoreProgramming\\Basics\\Program.cs",
+              "RelativeDocumentMoniker": "Basics\\Program.cs",
+              "ToolTip": "C:\\Users\\saura\\source\\repos\\CoreProgramming\\Basics\\Program.cs*",
+              "RelativeToolTip": "Basics\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-24T17:33:32.24Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AreaOfCircle.cs",
+              "DocumentMoniker": "C:\\Users\\saura\\source\\repos\\CoreProgramming\\Basics\\Problems\\AreaOfCircle.cs",
+              "RelativeDocumentMoniker": "Basics\\Problems\\AreaOfCircle.cs",
+              "ToolTip": "C:\\Users\\saura\\source\\repos\\CoreProgramming\\Basics\\Problems\\AreaOfCircle.cs",
+              "RelativeToolTip": "Basics\\Problems\\AreaOfCircle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-24T17:52:24.826Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AddTwoNumbers.cs",
+              "DocumentMoniker": "C:\\Users\\saura\\source\\repos\\CoreProgramming\\Basics\\Problems\\AddTwoNumbers.cs",
+              "RelativeDocumentMoniker": "Basics\\Problems\\AddTwoNumbers.cs",
+              "ToolTip": "C:\\Users\\saura\\source\\repos\\CoreProgramming\\Basics\\Problems\\AddTwoNumbers.cs",
+              "RelativeToolTip": "Basics\\Problems\\AddTwoNumbers.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-24T17:51:27.259Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "WelcomeToBridgeLabz.cs",
+              "DocumentMoniker": "C:\\Users\\saura\\source\\repos\\CoreProgramming\\Basics\\Problems\\WelcomeToBridgeLabz.cs",
+              "RelativeDocumentMoniker": "Basics\\Problems\\WelcomeToBridgeLabz.cs",
+              "ToolTip": "C:\\Users\\saura\\source\\repos\\CoreProgramming\\Basics\\Problems\\WelcomeToBridgeLabz.cs",
+              "RelativeToolTip": "Basics\\Problems\\WelcomeToBridgeLabz.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-24T17:48:34.524Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
