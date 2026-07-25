@@ -4,17 +4,19 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Basics.Problems
+namespace Basics
 {
-    internal class AreaOfCircle
+    internal class VolumeOfCylinder
     {
         public static void Run()
         {
             Console.Write("Enter radius: ");
             double radius = Convert.ToDouble(Console.ReadLine());
+            Console.Write("Enter height: ");
+            double height = Convert.ToDouble(Console.ReadLine());
 
-            double area = Math.PI * radius * radius;
-            Console.WriteLine($"Area of Circle = {area:F2}");
+            double volume = Math.PI * radius * radius * height;
+            Console.WriteLine($"Volume of Cylinder = {volume:F2}");
         }
     }
 }
