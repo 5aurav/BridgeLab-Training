@@ -21,6 +21,11 @@ namespace Basics
             QuotientAndRemainder.Run();
             SwapTwoNumbers.Run();
             SimpleInterest.Run();
+            KilometersToMiles.Run();
+            HeightConversion.Run();
+            IntOperations.Run();
+            MaximumHandshakes.Run();
+            ProfitAndLoss.Run();
         }
     }
 }
