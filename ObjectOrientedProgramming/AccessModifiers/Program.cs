@@ -1,0 +1,19 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace AccessModifiers
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            UniversityManagement.display();
+            BookLibrary.display();
+            BankAccountManagement.display();
+            EmployeeRecords.display();
+        }
+    }
+}
