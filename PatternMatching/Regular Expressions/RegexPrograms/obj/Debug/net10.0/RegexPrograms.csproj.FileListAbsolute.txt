@@ -1,0 +1,15 @@
+C:\Users\saura\OneDrive\Documents\BridgeLabTraining\Regular Expressions\RegexPrograms\obj\Debug\net10.0\RegexPrograms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\saura\OneDrive\Documents\BridgeLabTraining\Regular Expressions\RegexPrograms\obj\Debug\net10.0\RegexPrograms.AssemblyInfoInputs.cache
+C:\Users\saura\OneDrive\Documents\BridgeLabTraining\Regular Expressions\RegexPrograms\obj\Debug\net10.0\RegexPrograms.AssemblyInfo.cs
+C:\Users\saura\OneDrive\Documents\BridgeLabTraining\Regular Expressions\RegexPrograms\obj\Debug\net10.0\RegexPrograms.csproj.CoreCompileInputs.cache
+C:\Users\saura\OneDrive\Documents\BridgeLabTraining\Regular Expressions\RegexPrograms\obj\Debug\net10.0\RegexPrograms.sourcelink.json
+C:\Users\saura\OneDrive\Documents\BridgeLabTraining\Regular Expressions\RegexPrograms\bin\Debug\net10.0\RegexPrograms.exe
+C:\Users\saura\OneDrive\Documents\BridgeLabTraining\Regular Expressions\RegexPrograms\bin\Debug\net10.0\RegexPrograms.deps.json
+C:\Users\saura\OneDrive\Documents\BridgeLabTraining\Regular Expressions\RegexPrograms\bin\Debug\net10.0\RegexPrograms.runtimeconfig.json
+C:\Users\saura\OneDrive\Documents\BridgeLabTraining\Regular Expressions\RegexPrograms\bin\Debug\net10.0\RegexPrograms.dll
+C:\Users\saura\OneDrive\Documents\BridgeLabTraining\Regular Expressions\RegexPrograms\bin\Debug\net10.0\RegexPrograms.pdb
+C:\Users\saura\OneDrive\Documents\BridgeLabTraining\Regular Expressions\RegexPrograms\obj\Debug\net10.0\RegexPrograms.dll
+C:\Users\saura\OneDrive\Documents\BridgeLabTraining\Regular Expressions\RegexPrograms\obj\Debug\net10.0\refint\RegexPrograms.dll
+C:\Users\saura\OneDrive\Documents\BridgeLabTraining\Regular Expressions\RegexPrograms\obj\Debug\net10.0\RegexPrograms.pdb
+C:\Users\saura\OneDrive\Documents\BridgeLabTraining\Regular Expressions\RegexPrograms\obj\Debug\net10.0\RegexPrograms.genruntimeconfig.cache
+C:\Users\saura\OneDrive\Documents\BridgeLabTraining\Regular Expressions\RegexPrograms\obj\Debug\net10.0\ref\RegexPrograms.dll

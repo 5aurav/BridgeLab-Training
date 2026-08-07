@@ -1,0 +1,15 @@
+C:\Users\saura\OneDrive\Documents\BridgeLabTraining\Testing\NUnit testing\NUnitPrograms\bin\Debug\net10.0\NUnitPrograms.exe
+C:\Users\saura\OneDrive\Documents\BridgeLabTraining\Testing\NUnit testing\NUnitPrograms\bin\Debug\net10.0\NUnitPrograms.deps.json
+C:\Users\saura\OneDrive\Documents\BridgeLabTraining\Testing\NUnit testing\NUnitPrograms\bin\Debug\net10.0\NUnitPrograms.runtimeconfig.json
+C:\Users\saura\OneDrive\Documents\BridgeLabTraining\Testing\NUnit testing\NUnitPrograms\bin\Debug\net10.0\NUnitPrograms.dll
+C:\Users\saura\OneDrive\Documents\BridgeLabTraining\Testing\NUnit testing\NUnitPrograms\bin\Debug\net10.0\NUnitPrograms.pdb
+C:\Users\saura\OneDrive\Documents\BridgeLabTraining\Testing\NUnit testing\NUnitPrograms\obj\Debug\net10.0\NUnitPrograms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\saura\OneDrive\Documents\BridgeLabTraining\Testing\NUnit testing\NUnitPrograms\obj\Debug\net10.0\NUnitPrograms.AssemblyInfoInputs.cache
+C:\Users\saura\OneDrive\Documents\BridgeLabTraining\Testing\NUnit testing\NUnitPrograms\obj\Debug\net10.0\NUnitPrograms.AssemblyInfo.cs
+C:\Users\saura\OneDrive\Documents\BridgeLabTraining\Testing\NUnit testing\NUnitPrograms\obj\Debug\net10.0\NUnitPrograms.csproj.CoreCompileInputs.cache
+C:\Users\saura\OneDrive\Documents\BridgeLabTraining\Testing\NUnit testing\NUnitPrograms\obj\Debug\net10.0\NUnitPrograms.sourcelink.json
+C:\Users\saura\OneDrive\Documents\BridgeLabTraining\Testing\NUnit testing\NUnitPrograms\obj\Debug\net10.0\NUnitPrograms.dll
+C:\Users\saura\OneDrive\Documents\BridgeLabTraining\Testing\NUnit testing\NUnitPrograms\obj\Debug\net10.0\refint\NUnitPrograms.dll
+C:\Users\saura\OneDrive\Documents\BridgeLabTraining\Testing\NUnit testing\NUnitPrograms\obj\Debug\net10.0\NUnitPrograms.pdb
+C:\Users\saura\OneDrive\Documents\BridgeLabTraining\Testing\NUnit testing\NUnitPrograms\obj\Debug\net10.0\NUnitPrograms.genruntimeconfig.cache
+C:\Users\saura\OneDrive\Documents\BridgeLabTraining\Testing\NUnit testing\NUnitPrograms\obj\Debug\net10.0\ref\NUnitPrograms.dll
