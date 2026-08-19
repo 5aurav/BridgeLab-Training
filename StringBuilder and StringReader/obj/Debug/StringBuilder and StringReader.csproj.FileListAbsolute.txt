@@ -1,7 +1,0 @@
-C:\Users\saura\source\repos\Streams\StringBuilder and StringReader\obj\Debug\StringBuilder and StringReader.csproj.AssemblyReference.cache
-C:\Users\saura\source\repos\Streams\StringBuilder and StringReader\obj\Debug\StringBuilder and StringReader.csproj.CoreCompileInputs.cache
-C:\Users\saura\source\repos\Streams\StringBuilder and StringReader\bin\Debug\StringBuilder and StringReader.exe.config
-C:\Users\saura\source\repos\Streams\StringBuilder and StringReader\bin\Debug\StringBuilder and StringReader.exe
-C:\Users\saura\source\repos\Streams\StringBuilder and StringReader\bin\Debug\StringBuilder and StringReader.pdb
-C:\Users\saura\source\repos\Streams\StringBuilder and StringReader\obj\Debug\StringBuilder and StringReader.exe
-C:\Users\saura\source\repos\Streams\StringBuilder and StringReader\obj\Debug\StringBuilder and StringReader.pdb

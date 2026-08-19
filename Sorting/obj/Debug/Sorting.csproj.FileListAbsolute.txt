@@ -1,7 +1,0 @@
-C:\Users\saura\source\repos\Collections\Sorting\bin\Debug\Sorting.exe.config
-C:\Users\saura\source\repos\Collections\Sorting\bin\Debug\Sorting.exe
-C:\Users\saura\source\repos\Collections\Sorting\bin\Debug\Sorting.pdb
-C:\Users\saura\source\repos\Collections\Sorting\obj\Debug\Sorting.csproj.AssemblyReference.cache
-C:\Users\saura\source\repos\Collections\Sorting\obj\Debug\Sorting.csproj.CoreCompileInputs.cache
-C:\Users\saura\source\repos\Collections\Sorting\obj\Debug\Sorting.exe
-C:\Users\saura\source\repos\Collections\Sorting\obj\Debug\Sorting.pdb

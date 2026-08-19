@@ -1,7 +1,0 @@
-C:\Users\saura\source\repos\Collections\HashMap and HashSet\bin\Debug\HashMap and HashSet.exe.config
-C:\Users\saura\source\repos\Collections\HashMap and HashSet\bin\Debug\HashMap and HashSet.exe
-C:\Users\saura\source\repos\Collections\HashMap and HashSet\bin\Debug\HashMap and HashSet.pdb
-C:\Users\saura\source\repos\Collections\HashMap and HashSet\obj\Debug\HashMap and HashSet.csproj.AssemblyReference.cache
-C:\Users\saura\source\repos\Collections\HashMap and HashSet\obj\Debug\HashMap and HashSet.csproj.CoreCompileInputs.cache
-C:\Users\saura\source\repos\Collections\HashMap and HashSet\obj\Debug\HashMap and HashSet.exe
-C:\Users\saura\source\repos\Collections\HashMap and HashSet\obj\Debug\HashMap and HashSet.pdb

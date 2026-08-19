@@ -1,0 +1,7 @@
+C:\Users\saura\source\repos\CoreProgramming\DateAndTime\bin\Debug\DateAndTime.exe.config
+C:\Users\saura\source\repos\CoreProgramming\DateAndTime\bin\Debug\DateAndTime.exe
+C:\Users\saura\source\repos\CoreProgramming\DateAndTime\bin\Debug\DateAndTime.pdb
+C:\Users\saura\source\repos\CoreProgramming\DateAndTime\obj\Debug\DateAndTime.csproj.AssemblyReference.cache
+C:\Users\saura\source\repos\CoreProgramming\DateAndTime\obj\Debug\DateAndTime.csproj.CoreCompileInputs.cache
+C:\Users\saura\source\repos\CoreProgramming\DateAndTime\obj\Debug\DateAndTime.exe
+C:\Users\saura\source\repos\CoreProgramming\DateAndTime\obj\Debug\DateAndTime.pdb

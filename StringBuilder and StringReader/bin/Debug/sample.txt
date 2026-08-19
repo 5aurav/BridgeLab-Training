@@ -1,3 +1,0 @@
-Hello C#
-Streams are useful
-StreamReader reads line by line

@@ -1,7 +1,0 @@
-C:\Users\saura\source\repos\Streams\Searching\bin\Debug\Searching.exe.config
-C:\Users\saura\source\repos\Streams\Searching\bin\Debug\Searching.exe
-C:\Users\saura\source\repos\Streams\Searching\bin\Debug\Searching.pdb
-C:\Users\saura\source\repos\Streams\Searching\obj\Debug\Searching.csproj.AssemblyReference.cache
-C:\Users\saura\source\repos\Streams\Searching\obj\Debug\Searching.csproj.CoreCompileInputs.cache
-C:\Users\saura\source\repos\Streams\Searching\obj\Debug\Searching.exe
-C:\Users\saura\source\repos\Streams\Searching\obj\Debug\Searching.pdb

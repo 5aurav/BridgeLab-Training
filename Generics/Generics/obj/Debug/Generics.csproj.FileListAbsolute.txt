@@ -1,7 +1,0 @@
-C:\Users\saura\source\repos\Generics\Generics\bin\Debug\Generics.exe.config
-C:\Users\saura\source\repos\Generics\Generics\bin\Debug\Generics.exe
-C:\Users\saura\source\repos\Generics\Generics\bin\Debug\Generics.pdb
-C:\Users\saura\source\repos\Generics\Generics\obj\Debug\Generics.csproj.AssemblyReference.cache
-C:\Users\saura\source\repos\Generics\Generics\obj\Debug\Generics.csproj.CoreCompileInputs.cache
-C:\Users\saura\source\repos\Generics\Generics\obj\Debug\Generics.exe
-C:\Users\saura\source\repos\Generics\Generics\obj\Debug\Generics.pdb

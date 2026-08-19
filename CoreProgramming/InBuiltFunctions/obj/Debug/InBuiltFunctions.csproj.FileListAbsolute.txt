@@ -1,0 +1,7 @@
+C:\Users\saura\source\repos\CoreProgramming\InBuiltFunctions\bin\Debug\InBuiltFunctions.exe.config
+C:\Users\saura\source\repos\CoreProgramming\InBuiltFunctions\bin\Debug\InBuiltFunctions.exe
+C:\Users\saura\source\repos\CoreProgramming\InBuiltFunctions\bin\Debug\InBuiltFunctions.pdb
+C:\Users\saura\source\repos\CoreProgramming\InBuiltFunctions\obj\Debug\InBuiltFunctions.csproj.AssemblyReference.cache
+C:\Users\saura\source\repos\CoreProgramming\InBuiltFunctions\obj\Debug\InBuiltFunctions.csproj.CoreCompileInputs.cache
+C:\Users\saura\source\repos\CoreProgramming\InBuiltFunctions\obj\Debug\InBuiltFunctions.exe
+C:\Users\saura\source\repos\CoreProgramming\InBuiltFunctions\obj\Debug\InBuiltFunctions.pdb
