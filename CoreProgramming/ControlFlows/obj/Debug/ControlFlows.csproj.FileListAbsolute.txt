@@ -1,7 +1,0 @@
-C:\Users\saura\source\repos\CoreProgramming\Control Flows\bin\Debug\Control Flows.exe.config
-C:\Users\saura\source\repos\CoreProgramming\Control Flows\bin\Debug\Control Flows.exe
-C:\Users\saura\source\repos\CoreProgramming\Control Flows\bin\Debug\Control Flows.pdb
-C:\Users\saura\source\repos\CoreProgramming\Control Flows\obj\Debug\ControlFlows.csproj.AssemblyReference.cache
-C:\Users\saura\source\repos\CoreProgramming\Control Flows\obj\Debug\ControlFlows.csproj.CoreCompileInputs.cache
-C:\Users\saura\source\repos\CoreProgramming\Control Flows\obj\Debug\Control Flows.exe
-C:\Users\saura\source\repos\CoreProgramming\Control Flows\obj\Debug\Control Flows.pdb

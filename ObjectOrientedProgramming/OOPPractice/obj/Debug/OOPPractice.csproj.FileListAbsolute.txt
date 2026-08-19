@@ -1,2 +1,0 @@
-C:\Users\saura\source\repos\ObjectOrientedProgramming\OOPPractice\obj\Debug\OOPPractice.csproj.AssemblyReference.cache
-C:\Users\saura\source\repos\ObjectOrientedProgramming\OOPPractice\obj\Debug\OOPPractice.csproj.CoreCompileInputs.cache

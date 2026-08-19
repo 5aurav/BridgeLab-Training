@@ -1,7 +1,0 @@
-C:\Users\saura\source\repos\ObjectOrientedProgramming\Inheritance\bin\Debug\Inheritance.exe.config
-C:\Users\saura\source\repos\ObjectOrientedProgramming\Inheritance\bin\Debug\Inheritance.exe
-C:\Users\saura\source\repos\ObjectOrientedProgramming\Inheritance\bin\Debug\Inheritance.pdb
-C:\Users\saura\source\repos\ObjectOrientedProgramming\Inheritance\obj\Debug\Inheritance.csproj.AssemblyReference.cache
-C:\Users\saura\source\repos\ObjectOrientedProgramming\Inheritance\obj\Debug\Inheritance.csproj.CoreCompileInputs.cache
-C:\Users\saura\source\repos\ObjectOrientedProgramming\Inheritance\obj\Debug\Inheritance.exe
-C:\Users\saura\source\repos\ObjectOrientedProgramming\Inheritance\obj\Debug\Inheritance.pdb

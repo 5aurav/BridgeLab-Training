@@ -1,7 +1,0 @@
-C:\Users\saura\source\repos\CoreProgramming\Methods\obj\Debug\Methods.csproj.AssemblyReference.cache
-C:\Users\saura\source\repos\CoreProgramming\Methods\obj\Debug\Methods.csproj.CoreCompileInputs.cache
-C:\Users\saura\source\repos\CoreProgramming\Methods\bin\Debug\Methods.exe.config
-C:\Users\saura\source\repos\CoreProgramming\Methods\bin\Debug\Methods.exe
-C:\Users\saura\source\repos\CoreProgramming\Methods\bin\Debug\Methods.pdb
-C:\Users\saura\source\repos\CoreProgramming\Methods\obj\Debug\Methods.exe
-C:\Users\saura\source\repos\CoreProgramming\Methods\obj\Debug\Methods.pdb
