@@ -1,7 +1,0 @@
-C:\Users\saura\source\repos\Warehouse Inventory & Fulfillment\Warehouse Inventory & Fulfillment\bin\Debug\Warehouse Inventory & Fulfillment.exe.config
-C:\Users\saura\source\repos\Warehouse Inventory & Fulfillment\Warehouse Inventory & Fulfillment\bin\Debug\Warehouse Inventory & Fulfillment.exe
-C:\Users\saura\source\repos\Warehouse Inventory & Fulfillment\Warehouse Inventory & Fulfillment\bin\Debug\Warehouse Inventory & Fulfillment.pdb
-C:\Users\saura\source\repos\Warehouse Inventory & Fulfillment\Warehouse Inventory & Fulfillment\obj\Debug\Warehouse Inventory & Fulfillment.csproj.AssemblyReference.cache
-C:\Users\saura\source\repos\Warehouse Inventory & Fulfillment\Warehouse Inventory & Fulfillment\obj\Debug\Warehouse Inventory & Fulfillment.csproj.CoreCompileInputs.cache
-C:\Users\saura\source\repos\Warehouse Inventory & Fulfillment\Warehouse Inventory & Fulfillment\obj\Debug\Warehouse Inventory & Fulfillment.exe
-C:\Users\saura\source\repos\Warehouse Inventory & Fulfillment\Warehouse Inventory & Fulfillment\obj\Debug\Warehouse Inventory & Fulfillment.pdb

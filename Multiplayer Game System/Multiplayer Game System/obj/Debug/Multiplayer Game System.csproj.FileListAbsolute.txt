@@ -1,7 +1,0 @@
-C:\Users\saura\source\repos\Multiplayer Game System\Multiplayer Game System\obj\Debug\Multiplayer Game System.csproj.AssemblyReference.cache
-C:\Users\saura\source\repos\Multiplayer Game System\Multiplayer Game System\obj\Debug\Multiplayer Game System.csproj.CoreCompileInputs.cache
-C:\Users\saura\source\repos\Multiplayer Game System\Multiplayer Game System\bin\Debug\Multiplayer Game System.exe.config
-C:\Users\saura\source\repos\Multiplayer Game System\Multiplayer Game System\bin\Debug\Multiplayer Game System.exe
-C:\Users\saura\source\repos\Multiplayer Game System\Multiplayer Game System\bin\Debug\Multiplayer Game System.pdb
-C:\Users\saura\source\repos\Multiplayer Game System\Multiplayer Game System\obj\Debug\Multiplayer Game System.exe
-C:\Users\saura\source\repos\Multiplayer Game System\Multiplayer Game System\obj\Debug\Multiplayer Game System.pdb
