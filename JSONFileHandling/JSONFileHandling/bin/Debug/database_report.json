@@ -1,0 +1,25 @@
+{
+  "GeneratedAt": "2026-08-30T23:40:39.2155976+05:30",
+  "TotalRecords": 3,
+  "AverageSalary": 65000.0,
+  "Records": [
+    {
+      "Id": 1,
+      "Name": "Rahul",
+      "Department": "IT",
+      "Salary": 65000.0
+    },
+    {
+      "Id": 2,
+      "Name": "Priya",
+      "Department": "HR",
+      "Salary": 58000.0
+    },
+    {
+      "Id": 3,
+      "Name": "Aman",
+      "Department": "IT",
+      "Salary": 72000.0
+    }
+  ]
+}
