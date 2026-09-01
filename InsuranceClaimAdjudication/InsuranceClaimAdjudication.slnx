@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="InsuranceClaimAdjudication/InsuranceClaimAdjudication.csproj" />
+  <Project Path="InsuranceClaimTesting/InsuranceClaimTesting.csproj" />
+</Solution>

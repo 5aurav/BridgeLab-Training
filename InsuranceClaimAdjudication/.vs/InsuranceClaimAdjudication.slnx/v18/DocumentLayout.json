@@ -1,0 +1,262 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\saura\\source\\repos\\InsuranceClaimAdjudication\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{12A9E0DD-C376-4576-87DA-CEFFB769B1D1}|InsuranceClaimTesting\\InsuranceClaimTesting.csproj|c:\\users\\saura\\source\\repos\\insuranceclaimadjudication\\insuranceclaimtesting\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12A9E0DD-C376-4576-87DA-CEFFB769B1D1}|InsuranceClaimTesting\\InsuranceClaimTesting.csproj|solutionrelative:insuranceclaimtesting\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2152675F-4634-4C5E-A3F0-E59937A96CCE}|InsuranceClaimAdjudication\\InsuranceClaimAdjudication.csproj|c:\\users\\saura\\source\\repos\\insuranceclaimadjudication\\insuranceclaimadjudication\\exceptions\\claimexceedscoverageexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2152675F-4634-4C5E-A3F0-E59937A96CCE}|InsuranceClaimAdjudication\\InsuranceClaimAdjudication.csproj|solutionrelative:insuranceclaimadjudication\\exceptions\\claimexceedscoverageexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2152675F-4634-4C5E-A3F0-E59937A96CCE}|InsuranceClaimAdjudication\\InsuranceClaimAdjudication.csproj|c:\\users\\saura\\source\\repos\\insuranceclaimadjudication\\insuranceclaimadjudication\\closures\\rules.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2152675F-4634-4C5E-A3F0-E59937A96CCE}|InsuranceClaimAdjudication\\InsuranceClaimAdjudication.csproj|solutionrelative:insuranceclaimadjudication\\closures\\rules.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2152675F-4634-4C5E-A3F0-E59937A96CCE}|InsuranceClaimAdjudication\\InsuranceClaimAdjudication.csproj|c:\\users\\saura\\source\\repos\\insuranceclaimadjudication\\insuranceclaimadjudication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2152675F-4634-4C5E-A3F0-E59937A96CCE}|InsuranceClaimAdjudication\\InsuranceClaimAdjudication.csproj|solutionrelative:insuranceclaimadjudication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12A9E0DD-C376-4576-87DA-CEFFB769B1D1}|InsuranceClaimTesting\\InsuranceClaimTesting.csproj|c:\\users\\saura\\source\\repos\\insuranceclaimadjudication\\insuranceclaimtesting\\insuranceclaimtesting.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{12A9E0DD-C376-4576-87DA-CEFFB769B1D1}|InsuranceClaimTesting\\InsuranceClaimTesting.csproj|solutionrelative:insuranceclaimtesting\\insuranceclaimtesting.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2152675F-4634-4C5E-A3F0-E59937A96CCE}|InsuranceClaimAdjudication\\InsuranceClaimAdjudication.csproj|c:\\users\\saura\\source\\repos\\insuranceclaimadjudication\\insuranceclaimadjudication\\claimadjudicator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2152675F-4634-4C5E-A3F0-E59937A96CCE}|InsuranceClaimAdjudication\\InsuranceClaimAdjudication.csproj|solutionrelative:insuranceclaimadjudication\\claimadjudicator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2152675F-4634-4C5E-A3F0-E59937A96CCE}|InsuranceClaimAdjudication\\InsuranceClaimAdjudication.csproj|c:\\users\\saura\\source\\repos\\insuranceclaimadjudication\\insuranceclaimadjudication\\exceptions\\excludedcategoryexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2152675F-4634-4C5E-A3F0-E59937A96CCE}|InsuranceClaimAdjudication\\InsuranceClaimAdjudication.csproj|solutionrelative:insuranceclaimadjudication\\exceptions\\excludedcategoryexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2152675F-4634-4C5E-A3F0-E59937A96CCE}|InsuranceClaimAdjudication\\InsuranceClaimAdjudication.csproj|c:\\users\\saura\\source\\repos\\insuranceclaimadjudication\\insuranceclaimadjudication\\models\\policy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2152675F-4634-4C5E-A3F0-E59937A96CCE}|InsuranceClaimAdjudication\\InsuranceClaimAdjudication.csproj|solutionrelative:insuranceclaimadjudication\\models\\policy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2152675F-4634-4C5E-A3F0-E59937A96CCE}|InsuranceClaimAdjudication\\InsuranceClaimAdjudication.csproj|c:\\users\\saura\\source\\repos\\insuranceclaimadjudication\\insuranceclaimadjudication\\resources\\documentverifier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2152675F-4634-4C5E-A3F0-E59937A96CCE}|InsuranceClaimAdjudication\\InsuranceClaimAdjudication.csproj|solutionrelative:insuranceclaimadjudication\\resources\\documentverifier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2152675F-4634-4C5E-A3F0-E59937A96CCE}|InsuranceClaimAdjudication\\InsuranceClaimAdjudication.csproj|c:\\users\\saura\\source\\repos\\insuranceclaimadjudication\\insuranceclaimadjudication\\resources\\claimprocessingsession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2152675F-4634-4C5E-A3F0-E59937A96CCE}|InsuranceClaimAdjudication\\InsuranceClaimAdjudication.csproj|solutionrelative:insuranceclaimadjudication\\resources\\claimprocessingsession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2152675F-4634-4C5E-A3F0-E59937A96CCE}|InsuranceClaimAdjudication\\InsuranceClaimAdjudication.csproj|c:\\users\\saura\\source\\repos\\insuranceclaimadjudication\\insuranceclaimadjudication\\attributes\\requireddocumentationattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2152675F-4634-4C5E-A3F0-E59937A96CCE}|InsuranceClaimAdjudication\\InsuranceClaimAdjudication.csproj|solutionrelative:insuranceclaimadjudication\\attributes\\requireddocumentationattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2152675F-4634-4C5E-A3F0-E59937A96CCE}|InsuranceClaimAdjudication\\InsuranceClaimAdjudication.csproj|c:\\users\\saura\\source\\repos\\insuranceclaimadjudication\\insuranceclaimadjudication\\exceptions\\missingdocumentationexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2152675F-4634-4C5E-A3F0-E59937A96CCE}|InsuranceClaimAdjudication\\InsuranceClaimAdjudication.csproj|solutionrelative:insuranceclaimadjudication\\exceptions\\missingdocumentationexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2152675F-4634-4C5E-A3F0-E59937A96CCE}|InsuranceClaimAdjudication\\InsuranceClaimAdjudication.csproj|c:\\users\\saura\\source\\repos\\insuranceclaimadjudication\\insuranceclaimadjudication\\models\\claim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2152675F-4634-4C5E-A3F0-E59937A96CCE}|InsuranceClaimAdjudication\\InsuranceClaimAdjudication.csproj|solutionrelative:insuranceclaimadjudication\\models\\claim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2152675F-4634-4C5E-A3F0-E59937A96CCE}|InsuranceClaimAdjudication\\InsuranceClaimAdjudication.csproj|c:\\users\\saura\\source\\repos\\insuranceclaimadjudication\\insuranceclaimadjudication\\attributes\\highriskcategoryattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2152675F-4634-4C5E-A3F0-E59937A96CCE}|InsuranceClaimAdjudication\\InsuranceClaimAdjudication.csproj|solutionrelative:insuranceclaimadjudication\\attributes\\highriskcategoryattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "InsuranceClaimTesting",
+              "DocumentMoniker": "C:\\Users\\saura\\source\\repos\\InsuranceClaimAdjudication\\InsuranceClaimTesting\\InsuranceClaimTesting.csproj",
+              "RelativeDocumentMoniker": "InsuranceClaimTesting\\InsuranceClaimTesting.csproj",
+              "ToolTip": "C:\\Users\\saura\\source\\repos\\InsuranceClaimAdjudication\\InsuranceClaimTesting\\InsuranceClaimTesting.csproj",
+              "RelativeToolTip": "InsuranceClaimTesting\\InsuranceClaimTesting.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-09-01T07:11:47.526Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\saura\\source\\repos\\InsuranceClaimAdjudication\\InsuranceClaimAdjudication\\Program.cs",
+              "RelativeDocumentMoniker": "InsuranceClaimAdjudication\\Program.cs",
+              "ToolTip": "C:\\Users\\saura\\source\\repos\\InsuranceClaimAdjudication\\InsuranceClaimAdjudication\\Program.cs",
+              "RelativeToolTip": "InsuranceClaimAdjudication\\Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-01T04:55:40.261Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\saura\\source\\repos\\InsuranceClaimAdjudication\\InsuranceClaimTesting\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "InsuranceClaimTesting\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\saura\\source\\repos\\InsuranceClaimAdjudication\\InsuranceClaimTesting\\UnitTest1.cs",
+              "RelativeToolTip": "InsuranceClaimTesting\\UnitTest1.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAIwEgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-01T06:53:27.374Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Rules.cs",
+              "DocumentMoniker": "C:\\Users\\saura\\source\\repos\\InsuranceClaimAdjudication\\InsuranceClaimAdjudication\\Closures\\Rules.cs",
+              "RelativeDocumentMoniker": "InsuranceClaimAdjudication\\Closures\\Rules.cs",
+              "ToolTip": "C:\\Users\\saura\\source\\repos\\InsuranceClaimAdjudication\\InsuranceClaimAdjudication\\Closures\\Rules.cs",
+              "RelativeToolTip": "InsuranceClaimAdjudication\\Closures\\Rules.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA8AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-01T06:08:50.965Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ClaimExceedsCoverageException.cs",
+              "DocumentMoniker": "C:\\Users\\saura\\source\\repos\\InsuranceClaimAdjudication\\InsuranceClaimAdjudication\\Exceptions\\ClaimExceedsCoverageException.cs",
+              "RelativeDocumentMoniker": "InsuranceClaimAdjudication\\Exceptions\\ClaimExceedsCoverageException.cs",
+              "ToolTip": "C:\\Users\\saura\\source\\repos\\InsuranceClaimAdjudication\\InsuranceClaimAdjudication\\Exceptions\\ClaimExceedsCoverageException.cs",
+              "RelativeToolTip": "InsuranceClaimAdjudication\\Exceptions\\ClaimExceedsCoverageException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-01T05:25:00.883Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ClaimAdjudicator.cs",
+              "DocumentMoniker": "C:\\Users\\saura\\source\\repos\\InsuranceClaimAdjudication\\InsuranceClaimAdjudication\\ClaimAdjudicator.cs",
+              "RelativeDocumentMoniker": "InsuranceClaimAdjudication\\ClaimAdjudicator.cs",
+              "ToolTip": "C:\\Users\\saura\\source\\repos\\InsuranceClaimAdjudication\\InsuranceClaimAdjudication\\ClaimAdjudicator.cs",
+              "RelativeToolTip": "InsuranceClaimAdjudication\\ClaimAdjudicator.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAowCQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-01T06:14:27.339Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ExcludedCategoryException.cs",
+              "DocumentMoniker": "C:\\Users\\saura\\source\\repos\\InsuranceClaimAdjudication\\InsuranceClaimAdjudication\\Exceptions\\ExcludedCategoryException.cs",
+              "RelativeDocumentMoniker": "InsuranceClaimAdjudication\\Exceptions\\ExcludedCategoryException.cs",
+              "ToolTip": "C:\\Users\\saura\\source\\repos\\InsuranceClaimAdjudication\\InsuranceClaimAdjudication\\Exceptions\\ExcludedCategoryException.cs",
+              "RelativeToolTip": "InsuranceClaimAdjudication\\Exceptions\\ExcludedCategoryException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-01T05:30:50.576Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Policy.cs",
+              "DocumentMoniker": "C:\\Users\\saura\\source\\repos\\InsuranceClaimAdjudication\\InsuranceClaimAdjudication\\Models\\Policy.cs",
+              "RelativeDocumentMoniker": "InsuranceClaimAdjudication\\Models\\Policy.cs",
+              "ToolTip": "C:\\Users\\saura\\source\\repos\\InsuranceClaimAdjudication\\InsuranceClaimAdjudication\\Models\\Policy.cs",
+              "RelativeToolTip": "InsuranceClaimAdjudication\\Models\\Policy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-01T05:17:14.575Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DocumentVerifier.cs",
+              "DocumentMoniker": "C:\\Users\\saura\\source\\repos\\InsuranceClaimAdjudication\\InsuranceClaimAdjudication\\Resources\\DocumentVerifier.cs",
+              "RelativeDocumentMoniker": "InsuranceClaimAdjudication\\Resources\\DocumentVerifier.cs",
+              "ToolTip": "C:\\Users\\saura\\source\\repos\\InsuranceClaimAdjudication\\InsuranceClaimAdjudication\\Resources\\DocumentVerifier.cs",
+              "RelativeToolTip": "InsuranceClaimAdjudication\\Resources\\DocumentVerifier.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-01T05:47:07.015Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ClaimProcessingSession.cs",
+              "DocumentMoniker": "C:\\Users\\saura\\source\\repos\\InsuranceClaimAdjudication\\InsuranceClaimAdjudication\\Resources\\ClaimProcessingSession.cs",
+              "RelativeDocumentMoniker": "InsuranceClaimAdjudication\\Resources\\ClaimProcessingSession.cs",
+              "ToolTip": "C:\\Users\\saura\\source\\repos\\InsuranceClaimAdjudication\\InsuranceClaimAdjudication\\Resources\\ClaimProcessingSession.cs",
+              "RelativeToolTip": "InsuranceClaimAdjudication\\Resources\\ClaimProcessingSession.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAIwBUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-01T05:47:27.067Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "RequiredDocumentationAttribute.cs",
+              "DocumentMoniker": "C:\\Users\\saura\\source\\repos\\InsuranceClaimAdjudication\\InsuranceClaimAdjudication\\Attributes\\RequiredDocumentationAttribute.cs",
+              "RelativeDocumentMoniker": "InsuranceClaimAdjudication\\Attributes\\RequiredDocumentationAttribute.cs",
+              "ToolTip": "C:\\Users\\saura\\source\\repos\\InsuranceClaimAdjudication\\InsuranceClaimAdjudication\\Attributes\\RequiredDocumentationAttribute.cs",
+              "RelativeToolTip": "InsuranceClaimAdjudication\\Attributes\\RequiredDocumentationAttribute.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-01T05:18:36.327Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MissingDocumentationException.cs",
+              "DocumentMoniker": "C:\\Users\\saura\\source\\repos\\InsuranceClaimAdjudication\\InsuranceClaimAdjudication\\Exceptions\\MissingDocumentationException.cs",
+              "RelativeDocumentMoniker": "InsuranceClaimAdjudication\\Exceptions\\MissingDocumentationException.cs",
+              "ToolTip": "C:\\Users\\saura\\source\\repos\\InsuranceClaimAdjudication\\InsuranceClaimAdjudication\\Exceptions\\MissingDocumentationException.cs",
+              "RelativeToolTip": "InsuranceClaimAdjudication\\Exceptions\\MissingDocumentationException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-01T05:57:19.825Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Claim.cs",
+              "DocumentMoniker": "C:\\Users\\saura\\source\\repos\\InsuranceClaimAdjudication\\InsuranceClaimAdjudication\\Models\\Claim.cs",
+              "RelativeDocumentMoniker": "InsuranceClaimAdjudication\\Models\\Claim.cs",
+              "ToolTip": "C:\\Users\\saura\\source\\repos\\InsuranceClaimAdjudication\\InsuranceClaimAdjudication\\Models\\Claim.cs",
+              "RelativeToolTip": "InsuranceClaimAdjudication\\Models\\Claim.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-01T05:16:38.866Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "HighRiskCategoryAttribute.cs",
+              "DocumentMoniker": "C:\\Users\\saura\\source\\repos\\InsuranceClaimAdjudication\\InsuranceClaimAdjudication\\Attributes\\HighRiskCategoryAttribute.cs",
+              "RelativeDocumentMoniker": "InsuranceClaimAdjudication\\Attributes\\HighRiskCategoryAttribute.cs",
+              "ToolTip": "C:\\Users\\saura\\source\\repos\\InsuranceClaimAdjudication\\InsuranceClaimAdjudication\\Attributes\\HighRiskCategoryAttribute.cs",
+              "RelativeToolTip": "InsuranceClaimAdjudication\\Attributes\\HighRiskCategoryAttribute.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-01T05:21:26.206Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

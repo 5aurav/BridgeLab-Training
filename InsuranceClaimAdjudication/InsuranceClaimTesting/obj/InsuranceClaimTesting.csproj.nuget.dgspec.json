@@ -1,0 +1,96 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\saura\\source\\repos\\InsuranceClaimAdjudication\\InsuranceClaimTesting\\InsuranceClaimTesting.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\saura\\source\\repos\\InsuranceClaimAdjudication\\InsuranceClaimAdjudication\\InsuranceClaimAdjudication.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\saura\\source\\repos\\InsuranceClaimAdjudication\\InsuranceClaimAdjudication\\InsuranceClaimAdjudication.csproj",
+        "projectName": "InsuranceClaimAdjudication",
+        "projectPath": "C:\\Users\\saura\\source\\repos\\InsuranceClaimAdjudication\\InsuranceClaimAdjudication\\InsuranceClaimAdjudication.csproj",
+        "UsingMicrosoftNETSdk": false,
+        "frameworks": {
+          "net472": {
+            "framework": "net472",
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {
+          "framework": "net472"
+        }
+      }
+    },
+    "C:\\Users\\saura\\source\\repos\\InsuranceClaimAdjudication\\InsuranceClaimTesting\\InsuranceClaimTesting.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\saura\\source\\repos\\InsuranceClaimAdjudication\\InsuranceClaimTesting\\InsuranceClaimTesting.csproj",
+        "projectName": "InsuranceClaimTesting",
+        "projectPath": "C:\\Users\\saura\\source\\repos\\InsuranceClaimAdjudication\\InsuranceClaimTesting\\InsuranceClaimTesting.csproj",
+        "packagesPath": "C:\\Users\\saura\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\saura\\source\\repos\\InsuranceClaimAdjudication\\InsuranceClaimTesting\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\saura\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net472"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net472": {
+            "framework": "net472",
+            "targetAlias": "net472",
+            "projectReferences": {
+              "C:\\Users\\saura\\source\\repos\\InsuranceClaimAdjudication\\InsuranceClaimAdjudication\\InsuranceClaimAdjudication.csproj": {
+                "projectPath": "C:\\Users\\saura\\source\\repos\\InsuranceClaimAdjudication\\InsuranceClaimAdjudication\\InsuranceClaimAdjudication.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "10.0.400"
+      },
+      "frameworks": {
+        "net472": {
+          "framework": "net472",
+          "targetAlias": "net472",
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.2.0, )"
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[3.13.0, )"
+            },
+            "nunit": {
+              "target": "Package",
+              "version": "[3.12.0, )"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
