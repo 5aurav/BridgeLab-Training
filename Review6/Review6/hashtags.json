@@ -1,0 +1,7 @@
+{
+  "trending": [
+    { "tag": "#tech", "multiplier": 1.5 },
+    { "tag": "#coding", "multiplier": 1.3 },
+    { "tag": "#ai", "multiplier": 2.0 }
+  ]
+}
