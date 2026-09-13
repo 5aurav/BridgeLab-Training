@@ -1,4 +1,0 @@
-﻿Trending Report
-Generated: 2026-09-09T07:11:32.7773642Z
-
-Tag	Multiplier	Count
